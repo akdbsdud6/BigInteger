@@ -1,0 +1,27 @@
+
+1)Arithmetic.cpp
+- reads two BigInts from an input file and writes calculations to an output file
+
+2)BigInteger.h
+- creates class BigInteger and initializes its functions
+
+3)BigInteger.cpp
+- defines functions initialized in BigInteger.h
+
+4)BigIntegerTest.cpp
+- tests BigInteger functions
+
+5)List.h
+- defines public class List and private class Node. Initializes List functions
+
+6)List.cpp
+- defines functions initialized in List.h
+
+7)ListTest.cpp
+- tests List functions
+
+8)Makefile
+- makes executables
+
+9)README
+- this file
